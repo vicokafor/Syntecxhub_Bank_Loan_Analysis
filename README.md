@@ -268,6 +268,7 @@ California recorded approximately 6.9K applications, making it the state with th
 
 **Business implication:** California represents a major source of loan demand and may deserve closer attention when planning regional lending and marketing strategies.
 
+---
 ## 💡 Business Recommendations
 
 Based on the analysis:
@@ -313,7 +314,25 @@ The analysis moved through:
 
 One of the key lessons from this project was that loan volume alone does not tell the complete story. Comparing bad-loan rates across different segments provides a more meaningful view of repayment risk and helps identify areas that may require closer monitoring.
 
+---
+## 📁 Project Structure
 
+```text
+Bank Loan Portfolio Risk Analysis/
+│
+├── README.md
+│
+├── Dataset/
+│   └── financial_loan.csv
+│
+├── PowerBI/
+│   └── bank_loan_analysis.pbix
+│
+└── Screenshots/
+    ├── bank_loan_analysis_summary.png
+    ├── bank_loan_analysis_overview.png
+    └── bank_loan_analysis_details.png
+```
 ---
 
 ## 🖼️ Dashboard Screenshots
@@ -344,8 +363,8 @@ I am documenting my journey into data analytics by working on real-world dataset
 ---
 ## 📫 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile link here
-- **GitHub:** Add your GitHub profile link here
+- **LinkedIn:** https://www.linkedin.com/in/victoria-okafor-4720a02b8
+- **GitHub:** https://github.com/vicokafor 
 
 ---
 ## ⭐ Project Note
