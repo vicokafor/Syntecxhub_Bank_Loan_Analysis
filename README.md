@@ -168,6 +168,7 @@ Key metrics include:
 - Good vs Bad Loan distribution
 - Loan Status
 - MTD and MoM performance
+![Bank Loan Summary](bank_loan_analysis_summary.png)
 
 ### 2. Overview
 The Overview page focuses on loan demand and repayment risk.
@@ -179,6 +180,7 @@ Key visuals include:
 - Bad Loan Rate by Interest Rate Band
 - Bad Loan Rate by Grade
 - Bad Loan Rate by Term
+![Bank Loan Overview](bank_loan_analysis_overview.png)
 
 ### 3. Details
 The Details page provides transaction-level information for deeper investigation.
@@ -196,6 +198,7 @@ Users can explore:
 - Received Amount
 
 Interactive filters allow users to investigate specific segments of the portfolio.
+![Bank Loan Details](bank_loan_analysis_details.png)
 
 ---
 ## 📊 Key Portfolio Metrics
@@ -309,6 +312,23 @@ The analysis moved through:
 **Raw Data → Data Cleaning → Data Modeling → DAX → Dashboard → Risk Analysis → Business Recommendations**
 
 One of the key lessons from this project was that loan volume alone does not tell the complete story. Comparing bad-loan rates across different segments provides a more meaningful view of repayment risk and helps identify areas that may require closer monitoring.
+
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+### Bank Loan Summary
+
+![Bank Loan Summary](bank_loan_analysis_summary.png)
+
+### Bank Loan Overview 
+
+![Bank Loan Overview](bank_loan_analysis_overview.png)
+
+### Bank Loan Details 
+
+![Bank Loan Details](bank_loan_analysis_details.png)
 
 ---
 ## 👩🏽‍💻 About Me
